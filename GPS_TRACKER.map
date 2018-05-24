@@ -1,0 +1,997 @@
+Archive member included because of file (symbol)
+
+C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                              GPS_TRACKER.o (write)
+C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                              GPS_TRACKER.o (gprs_init)
+C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                              GPS_TRACKER.o (gps_fix)
+C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                              C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o) (WaitForResponse)
+C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+                              GPS_TRACKER.o (reset_timeout)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                              GPS_TRACKER.o (__mulsi3)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                              C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o) (__divmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                              GPS_TRACKER.o (__udivmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                              GPS_TRACKER.o (__divmodsi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o (exit)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                              GPS_TRACKER.o (__do_copy_data)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                              GPS_TRACKER.o (__do_clear_bss)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o) (__udivmodhi4)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (atoi)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+                              C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o) (strncasecmp_P)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr_P.o)
+                              C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o) (strstr_P)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (strchr)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                              C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o) (strcpy)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (strncasecmp)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (strncpy)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                              C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o) (strrchr)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o) (strstr)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              GPS_TRACKER.o (itoa)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              GPS_TRACKER.o (ltoa)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o) (__mulhi_const_10)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o)
+                              GPS_TRACKER.o (sprintf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o) (vfprintf)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o) (__prologue_saves__)
+c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o) (__epilogue_restores__)
+
+Allocating common symbols
+Common symbol       size              file
+
+jlen                0x2               C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+gps_buffer          0xa0              C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+dlen                0x4               C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+temp                0x19              C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+id                  0x2               C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+vxp                 0x2               C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+global_count        0x2               C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+UQFront             0x1               GPS_TRACKER.o
+epotime             0x2               C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+UQEnd               0x1               GPS_TRACKER.o
+URBuff              0x12c             GPS_TRACKER.o
+gsm_buffer          0xa0              C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gprs_buffer         0xa0              C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+LOAD GPS_TRACKER.o
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libm.a
+LOAD C:\WinAVR-20100110\avr\include\avr\libefsio.a
+LOAD C:\WinAVR-20100110\avr\include\avr\libixabgprs.a
+LOAD C:\WinAVR-20100110\avr\include\avr\libixabgps.a
+LOAD C:\WinAVR-20100110\avr\include\avr\libxabgsm.a
+LOAD C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a
+LOAD c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x2c5a
+ *(.vectors)
+ .vectors       0x00000000       0x54 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+ .progmem.data  0x00000054        0xc GPS_TRACKER.o
+ .progmem.data  0x00000060      0x11c C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .progmem.data  0x0000017c      0x18c C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .progmem.data  0x00000308       0xd5 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                0x000003de                . = ALIGN (0x2)
+ *fill*         0x000003dd        0x1 00
+                0x000003de                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000003de        0x0 linker stubs
+ *(.trampolines*)
+                0x000003de                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000003de                __ctors_start = .
+ *(.ctors)
+                0x000003de                __ctors_end = .
+                0x000003de                __dtors_start = .
+ *(.dtors)
+                0x000003de                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000003de        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x000003de                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000003de        0xc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000003ea       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                0x000003ea                __do_copy_data
+ .init4         0x00000400       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                0x00000400                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000410        0x8 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ *(.init9)
+ *(.text)
+ .text          0x00000418        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+                0x00000418                __vector_1
+                0x00000418                __vector_12
+                0x00000418                __bad_interrupt
+                0x00000418                __vector_6
+                0x00000418                __vector_3
+                0x00000418                __vector_11
+                0x00000418                __vector_17
+                0x00000418                __vector_19
+                0x00000418                __vector_7
+                0x00000418                __vector_5
+                0x00000418                __vector_4
+                0x00000418                __vector_2
+                0x00000418                __vector_15
+                0x00000418                __vector_8
+                0x00000418                __vector_14
+                0x00000418                __vector_10
+                0x00000418                __vector_16
+                0x00000418                __vector_18
+                0x00000418                __vector_20
+ .text          0x0000041c      0x732 GPS_TRACKER.o
+                0x0000059e                serial_available
+                0x000007a4                lcd_data
+                0x00000b0a                serial_num
+                0x00000a82                lcd_num
+                0x000007b8                lcd_gotoxy
+                0x000007e0                lcd_putc
+                0x000006ce                urclear
+                0x0000083e                lcd_string_P
+                0x00000618                serial_nread
+                0x000007d0                lcd_clear
+                0x000007d8                lcd_home
+                0x00000644                __vector_13
+                0x00000552                serial_string_P
+                0x0000053e                serial_string
+                0x0000080a                lcd_string
+                0x00000566                s_readbuffer
+                0x00000ac6                serial_numl
+                0x000007c8                lcd_getxy
+                0x00000536                serial_char
+                0x000005f2                serial_nreadw
+                0x00000822                lcd_puts_p
+                0x0000085a                lcd_init
+                0x000008fc                main
+                0x000005e2                s_clearbuffer
+                0x0000041c                serial_init
+                0x000004ec                serial_read
+                0x000008c8                beep
+                0x00000790                lcd_command
+                0x00000470                serial_finit
+ .text          0x00000b4e      0x438 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                0x00000ea0                serial_select
+                0x00000de6                direction
+                0x00000c26                write
+                0x00000b4e                read
+                0x00000f5a                compare
+                0x00000f80                str_num
+                0x00000ef4                jsonparser
+ .text          0x00000f86      0x67c C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                0x000010f0                WaitForGResponse
+                0x00000f86                gprs_restart
+                0x000012e4                gprs_connect
+                0x00001396                http_get_P
+                0x0000118e                gprs_init
+                0x00001496                http_get
+                0x0000117c                gprs_disconnect
+                0x000011e0                status_check
+                0x0000101a                http_data
+ .text          0x00001602      0x4e6 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                0x00001692                gps_getcoordinates
+                0x000019f0                epo_time
+                0x00001876                agps_update
+                0x00001a32                gps_init
+                0x000017ea                WaitForGPResponse
+                0x00001602                gps_fix
+ .text          0x00001ae8      0x7b6 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                0x00001ae8                gsm_call
+                0x00002096                gsm_readmsg
+                0x00001c44                clk_check
+                0x00002216                gsm_waitformsg
+                0x00001dd6                gsm_initx
+                0x00001cc6                clk_init
+                0x00001b7a                gsm_deletemsgall
+                0x00001da2                gsm_pwroff
+                0x00001e16                gsm_init
+                0x00001db4                init_config
+                0x00002000                gsm_sendmsg
+                0x00001bc0                WaitForResponse
+                0x00001f6a                gsm_sendmsg_P
+                0x00001d0e                gsm_restart
+ .text          0x0000229e       0xcc C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+                0x000022b8                stop_timeout
+                0x000022d6                reset_timeout
+                0x0000229e                timer_start
+                0x00002320                __vector_9
+                0x000022f4                set_timeout
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr_P.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .text          0x0000236a        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x0000236a                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x0000236a       0x3e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                0x0000236a                __mulsi3
+ .text.libgcc   0x000023a8       0x26 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                0x000023a8                __divmodhi4
+                0x000023a8                _div
+ .text.libgcc   0x000023ce       0x44 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                0x000023ce                __udivmodsi4
+ .text.libgcc   0x00002412       0x36 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                0x00002412                __divmodsi4
+ .text.libgcc   0x00002448        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00002448        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00002448        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00002448       0x28 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                0x00002448                __udivmodhi4
+ .text.avr-libc
+                0x00002470       0x3c c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+                0x00002470                atoi
+ .text.avr-libc
+                0x000024ac       0x30 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+                0x000024ac                strncasecmp_P
+ .text.avr-libc
+                0x000024dc       0x34 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr_P.o)
+                0x000024dc                strstr_P
+ .text.avr-libc
+                0x00002510       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                0x00002510                strchr
+ .text.avr-libc
+                0x00002526        0xe c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                0x00002526                strcpy
+ .text.avr-libc
+                0x00002534       0x30 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+                0x00002534                strncasecmp
+ .text.avr-libc
+                0x00002564       0x1e c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                0x00002564                strncpy
+ .text.avr-libc
+                0x00002582       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                0x00002582                strrchr
+ .text.avr-libc
+                0x00002598       0x34 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                0x00002598                strstr
+ .text.avr-libc
+                0x000025cc       0x42 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                0x000025cc                itoa
+ .text.avr-libc
+                0x0000260e       0x68 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                0x0000260e                ltoa
+ .text.avr-libc
+                0x00002676       0x10 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+                0x00002676                __mulhi_const_10
+ .text.avr-libc
+                0x00002686       0x48 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o)
+                0x00002686                sprintf
+ .text.avr-libc
+                0x000026ce      0x3ba c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x000026ce                vfprintf
+ .text.avr-libc
+                0x00002a88       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x00002a88                strnlen_P
+ .text.avr-libc
+                0x00002a9e       0x16 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00002a9e                strnlen
+ .text.avr-libc
+                0x00002ab4       0x20 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x00002ab4                strrev
+ .text.avr-libc
+                0x00002ad4       0x58 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x00002ad4                fputc
+ .text.avr-libc
+                0x00002b2c       0xbc c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x00002b2c                __ultoa_invert
+ .text.libgcc   0x00002be8       0x38 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                0x00002be8                __prologue_saves__
+ .text.libgcc   0x00002c20       0x36 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                0x00002c20                __epilogue_restores__
+                0x00002c56                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00002c56        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                0x00002c56                exit
+                0x00002c56                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00002c56        0x4 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00002c5a                _etext = .
+
+.data           0x00800060       0x4e load address 0x00002c5a
+                0x00800060                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800060        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .data          0x00800060       0x41 GPS_TRACKER.o
+ .data          0x008000a1        0x3 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .data          0x008000a4        0x0 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .data          0x008000a4        0x0 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .data          0x008000a4        0x9 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+ .data          0x008000ad        0x0 C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr_P.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .data          0x008000ad        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x008000ae                . = ALIGN (0x2)
+ *fill*         0x008000ad        0x1 00
+                0x008000ae                _edata = .
+                0x008000ae                PROVIDE (__data_end, .)
+
+.bss            0x008000ae      0x337
+                0x008000ae                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x008000ae        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+ .bss           0x008000ae        0x0 GPS_TRACKER.o
+ .bss           0x008000ae        0x0 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .bss           0x008000ae        0x2 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                0x008000ae                neterr
+ .bss           0x008000b0        0x0 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .bss           0x008000b0        0x0 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+ .bss           0x008000b0        0x0 C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr_P.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+ .bss           0x008000b0        0x0 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x008000b0      0x12e GPS_TRACKER.o
+                0x008000b0                UQFront
+                0x008000b1                UQEnd
+                0x008000b2                URBuff
+ COMMON         0x008001de       0xa6 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                0x008001de                jlen
+                0x008001e0                dlen
+                0x008001e4                gprs_buffer
+ COMMON         0x00800284       0xbb C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                0x00800284                gps_buffer
+                0x00800324                temp
+                0x0080033d                epotime
+ COMMON         0x0080033f       0xa2 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                0x0080033f                id
+                0x00800341                gsm_buffer
+ COMMON         0x008003e1        0x4 C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+                0x008003e1                vxp
+                0x008003e3                global_count
+                0x008003e5                PROVIDE (__bss_end, .)
+                0x00002c5a                __data_load_start = LOADADDR (.data)
+                0x00002ca8                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x008003e5        0x0
+                0x008003e5                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x008003e5                PROVIDE (__noinit_end, .)
+                0x008003e5                _end = .
+                0x008003e5                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xc0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 GPS_TRACKER.o
+ .debug_aranges
+                0x00000020       0x20 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_aranges
+                0x00000040       0x20 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .debug_aranges
+                0x00000060       0x20 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .debug_aranges
+                0x00000080       0x20 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+ .debug_aranges
+                0x000000a0       0x20 C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+
+.debug_pubnames
+                0x00000000      0x549
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x1ec GPS_TRACKER.o
+ .debug_pubnames
+                0x000001ec       0x6c C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_pubnames
+                0x00000258       0xd3 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .debug_pubnames
+                0x0000032b       0x99 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .debug_pubnames
+                0x000003c4      0x108 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+ .debug_pubnames
+                0x000004cc       0x7d C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+
+.debug_info     0x00000000     0x321e
+ *(.debug_info)
+ .debug_info    0x00000000      0xb1e GPS_TRACKER.o
+ .debug_info    0x00000b1e      0x24b C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_info    0x00000d69      0xba4 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .debug_info    0x0000190d      0x951 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .debug_info    0x0000225e      0xea8 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+ .debug_info    0x00003106      0x118 C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0xd03
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x3bf GPS_TRACKER.o
+ .debug_abbrev  0x000003bf      0x134 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_abbrev  0x000004f3      0x255 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .debug_abbrev  0x00000748      0x21e C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .debug_abbrev  0x00000966      0x2c2 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+ .debug_abbrev  0x00000c28       0xdb C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+
+.debug_line     0x00000000     0x2768
+ *(.debug_line)
+ .debug_line    0x00000000      0x9fa GPS_TRACKER.o
+ .debug_line    0x000009fa      0x3ad C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_line    0x00000da7      0x869 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .debug_line    0x00001610      0x5bb C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .debug_line    0x00001bcb      0x9e6 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+ .debug_line    0x000025b1      0x1b7 C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+
+.debug_frame    0x00000000      0x4e0
+ *(.debug_frame)
+ .debug_frame   0x00000000      0x200 GPS_TRACKER.o
+ .debug_frame   0x00000200       0x80 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_frame   0x00000280       0xa0 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .debug_frame   0x00000320       0x70 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .debug_frame   0x00000390       0xf0 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+ .debug_frame   0x00000480       0x60 C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+
+.debug_str      0x00000000      0x700
+ *(.debug_str)
+ .debug_str     0x00000000      0x2e8 GPS_TRACKER.o
+                                0x334 (size before relaxing)
+ .debug_str     0x000002e8       0xbc C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                                0x152 (size before relaxing)
+ .debug_str     0x000003a4       0xe9 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                                0x1ce (size before relaxing)
+ .debug_str     0x0000048d       0xd1 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                0x1b0 (size before relaxing)
+ .debug_str     0x0000055e      0x115 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                0x201 (size before relaxing)
+ .debug_str     0x00000673       0x8d C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+                                0x115 (size before relaxing)
+
+.debug_loc      0x00000000     0x1a64
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x662 GPS_TRACKER.o
+ .debug_loc     0x00000662      0x2a6 C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+ .debug_loc     0x00000908      0x6a0 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .debug_loc     0x00000fa8      0x3b0 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .debug_loc     0x00001358      0x6f4 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+ .debug_loc     0x00001a4c       0x18 C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(GPS_TRACKER.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000      0x438
+ .debug_ranges  0x00000000       0x48 GPS_TRACKER.o
+ .debug_ranges  0x00000048      0x1b0 C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+ .debug_ranges  0x000001f8       0xd8 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+ .debug_ranges  0x000002d0      0x168 C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+
+Cross Reference Table
+
+Symbol                                            File
+UQEnd                                             GPS_TRACKER.o
+UQFront                                           GPS_TRACKER.o
+URBuff                                            GPS_TRACKER.o
+WaitForGPResponse                                 C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+WaitForGResponse                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+WaitForResponse                                   C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+__bad_interrupt                                   c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__bss_end                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__bss_start                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+__data_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_load_start                                 c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__data_start                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+__divmodhi4                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+__divmodsi4                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                                                  GPS_TRACKER.o
+__do_clear_bss                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_clear_bss.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                                                  GPS_TRACKER.o
+__do_copy_data                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_copy_data.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                                                  GPS_TRACKER.o
+__epilogue_restores__                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_epilogue.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o)
+__heap_end                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__init                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__mulhi_const_10                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(mul10.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+__mulsi3                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_mulsi3.o)
+                                                  GPS_TRACKER.o
+__prologue_saves__                                c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_prologue.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o)
+__stack                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__udivmodhi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodhi4.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+__udivmodsi4                                      c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_udivmodsi4.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodsi4.o)
+                                                  GPS_TRACKER.o
+__ultoa_invert                                    c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+__vector_1                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_10                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_11                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_12                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_13                                       GPS_TRACKER.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_14                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_15                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_16                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_17                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_18                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_19                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_2                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_20                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_3                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_4                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_5                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_6                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_7                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_8                                        c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_9                                        C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vector_default                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+__vectors                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+_div                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_divmodhi4.o)
+_exit                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+agps_init                                         GPS_TRACKER.o
+agps_update                                       C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+atoi                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(atoi.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+beep                                              GPS_TRACKER.o
+clk_check                                         C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+clk_init                                          C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+compare                                           C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+direction                                         C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+dlen                                              C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+epo_time                                          C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+epotime                                           C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+exit                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr5\libgcc.a(_exit.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+fputc                                             c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(fputc.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+global_count                                      C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+gprs_buffer                                       C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+gprs_connect                                      C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                                                  GPS_TRACKER.o
+gprs_disconnect                                   C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+gprs_init                                         C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                                                  GPS_TRACKER.o
+gprs_restart                                      C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+gps_buffer                                        C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+gps_fix                                           C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  GPS_TRACKER.o
+gps_getcoordinates                                C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  GPS_TRACKER.o
+gps_init                                          C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+gsm_buffer                                        C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gsm_call                                          C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gsm_deletemsgall                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gsm_init                                          C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  GPS_TRACKER.o
+gsm_initx                                         C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gsm_pwroff                                        C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gsm_readmsg                                       C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gsm_restart                                       C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gsm_sendmsg                                       C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gsm_sendmsg_P                                     C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+gsm_waitformsg                                    C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+http_data                                         C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+http_get                                          C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                                                  GPS_TRACKER.o
+http_get_P                                        C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+id                                                C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+init_config                                       C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+itoa                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+                                                  GPS_TRACKER.o
+jlen                                              C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+jsonparser                                        C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+lcd_clear                                         GPS_TRACKER.o
+lcd_command                                       GPS_TRACKER.o
+lcd_data                                          GPS_TRACKER.o
+lcd_getxy                                         GPS_TRACKER.o
+lcd_gotoxy                                        GPS_TRACKER.o
+lcd_home                                          GPS_TRACKER.o
+lcd_init                                          GPS_TRACKER.o
+lcd_num                                           GPS_TRACKER.o
+lcd_putc                                          GPS_TRACKER.o
+lcd_puts_p                                        GPS_TRACKER.o
+lcd_string                                        GPS_TRACKER.o
+lcd_string_P                                      GPS_TRACKER.o
+ltoa                                              c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  GPS_TRACKER.o
+main                                              GPS_TRACKER.o
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5/crtm32.o
+neterr                                            C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+read                                              C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+reset_timeout                                     C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+                                                  GPS_TRACKER.o
+s_clearbuffer                                     GPS_TRACKER.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+s_readbuffer                                      GPS_TRACKER.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+serial_available                                  GPS_TRACKER.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+serial_char                                       GPS_TRACKER.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+serial_finit                                      GPS_TRACKER.o
+serial_init                                       GPS_TRACKER.o
+serial_nread                                      GPS_TRACKER.o
+serial_nreadw                                     GPS_TRACKER.o
+serial_num                                        GPS_TRACKER.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+serial_numl                                       GPS_TRACKER.o
+serial_read                                       GPS_TRACKER.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+serial_select                                     C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                                                  GPS_TRACKER.o
+serial_string                                     GPS_TRACKER.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+serial_string_P                                   GPS_TRACKER.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+set_timeout                                       C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+                                                  GPS_TRACKER.o
+sprintf                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  GPS_TRACKER.o
+status_check                                      C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+stop_timeout                                      C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+str_num                                           C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+strchr                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strchr.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+strcpy                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+strncasecmp                                       c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+strncasecmp_P                                     c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncasecmp_P.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+strncpy                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+strnlen                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+strnlen_P                                         c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+strrchr                                           c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrchr.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+strrev                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strrev.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(itoa.o)
+strstr                                            c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+strstr_P                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(strstr_P.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+                                                  C:\WinAVR-20100110\avr\include\avr\libixabgprs.a(gprs.o)
+temp                                              C:\WinAVR-20100110\avr\include\avr\libixabgps.a(gps.o)
+timer_start                                       C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+urclear                                           GPS_TRACKER.o
+                                                  C:\WinAVR-20100110\avr\include\avr\libxabgsm.a(gsm.o)
+vfprintf                                          c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                                  c:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr5\libc.a(sprintf.o)
+vxp                                               C:\WinAVR-20100110\avr\include\avr\libxabpower_reset.a(watchdog.o)
+write                                             C:\WinAVR-20100110\avr\include\avr\libefsio.a(efsio.o)
+                                                  GPS_TRACKER.o
